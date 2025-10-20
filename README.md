@@ -1,6 +1,6 @@
 # Árvore Binária - Código Morse
 
-# Grupo 12
+## Grupo 12
 - Antonio Bernardo Zilio Tomasi
 - Julia Machado Kociolek
 - Gustavo Lona Grespan
