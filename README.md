@@ -14,7 +14,7 @@ O projeto suporta:
 
 ---
 
-Use o menu interativo para:
+## Use o menu interativo para:
 
 Buscar códigos Morse.
 
@@ -26,7 +26,7 @@ Exibir a árvore.
 
 ---
 
-Observações importantes / Restrições
+## Observações importantes / Restrições
 
 A árvore é inicializada automaticamente com letras A–Z e números 0–9.
 
