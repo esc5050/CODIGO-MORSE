@@ -1,5 +1,10 @@
 # Árvore Binária - Código Morse
 
+Grupo
+- Antonio Bernardo Zilio Tomasi
+- Julia Machado Kociolek
+- Gustavo Lona Grespan
+
 ## Descrição
 Implementação de uma **árvore binária** onde cada nó representa um símbolo do **Código Morse**.
 - Pontos (`.`) são filhos à esquerda.
